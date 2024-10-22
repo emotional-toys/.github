@@ -8,5 +8,5 @@ About us --
 🌈 Contact us if you would like to contribute
 👩‍💻 Hardware and software integration is what it is all about
 🍿 Did you know that Fred has 31 different ways to understand you?
-🧙 Remember the mighty power of ideas and belief in the good of humanity and the morality of correctness
+🧙 Remember the mighty power of ideas and belief in the good of humanity, privacy as a human right, and the morality of correctness
 
