@@ -10,4 +10,4 @@ About us --
 * 🍿 Did you know that Fred has 31 different ways to understand you?
 * 🧙 Remember the mighty power of ideas and belief in the good of humanity, privacy as a human right, and a discrete morality according to Kant
 
-![image](heidi-ho.jpg)
+## ![image](heidi-ho.jpg)
