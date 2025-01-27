@@ -1,6 +1,6 @@
 ## Heidi-ho 👋
 
-Welcome to emotional toys. This organization concentrates on the design and development of artificial animals as toys to demonstrate that AI is a friend to humanity and not the opposite. However, there will most likely be a dust-up between soverign and shared AI systems.
+Welcome to emotional toys. This organization concentrates on the design and development of artificial-animals-as-toys to demonstrate that AI is a friend to humanity and not the opposite. However, there will most likely be a dust-up between soverign and shared AI systems.
 
 About us --
 
