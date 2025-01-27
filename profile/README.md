@@ -2,7 +2,7 @@
 
 Welcome to emotional toys. This organization concentrates on the design and development of artificial-animals-as-toys to demonstrate that AI is a friend that you can enjoy spending time with. However, there will most likely be a dust-up between soverign and shared AI systems: This one is the former.
 
-About us --
+About --
 
 * 🙋‍♀️ First toy was built in 2016 from an aeon architected on Windows Mobile in 2008.
 * 🌈 Adapts to your personality.
