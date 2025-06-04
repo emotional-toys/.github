@@ -1,8 +1,8 @@
-## Heidi-ho 👋
+## Cartheur Presents Emotional Toys
 
-Welcome to emotional toys. This organization concentrates on the design and development of artificial-animals-as-toys to demonstrate that AI is a friend that you can enjoy spending time with. However, there will most likely be a dust-up between soverign and shared AI systems: This one is the former.
+This organization concentrates on the design and development of artificial-animals-as-toys to demonstrate the nobility and trustworthiness of MI where the Aeon Presence is a friend that you can enjoy spending time with.
 
-About --
+Interesting facts --
 
 * First toy was built in 2016 from an aeon architected on Windows Mobile in 2009.
 * Is not AI; rather MI (machine intelligence).
