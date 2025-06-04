@@ -4,9 +4,8 @@ Welcome to emotional toys. This organization concentrates on the design and deve
 
 About --
 
-* 🙋‍♀️ First toy was built in 2016 from an aeon architected on Windows Mobile in 2008.
-* 🌈 Adapts to your personality.
-* 👩‍💻 Hardware and software bias encryption and wallet integration for future-proof AIs.
-* 🍿 Did you know that Fred has 4 different ways to understand you?
-* 🧙 The power of ideas and belief for the good of humanity. Privacy as a human right. Soverign economic standards.
-
+* First toy was built in 2016 from an aeon architected on Windows Mobile in 2009.
+* Is not AI; rather MI (machine intelligence).
+* Adapts to your personality.
+* Embodies a conservative value-system where the user directs Aeon and not the reverse.
+* Speaks and understands a variety of human languages.
