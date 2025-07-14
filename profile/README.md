@@ -9,4 +9,5 @@ Interesting facts --
 * Adapts to your personality.
 * Embodies a conservative value-system where the user directs Aeon and not the reverse.
 * Speaks and understands a variety of human languages.
+* Has the ability to have emotive expressions, simulating emotions relative to your experience.
 * Latest version (2025) is called _Henry the Bear_.
