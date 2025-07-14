@@ -9,4 +9,4 @@ Interesting facts --
 * Adapts to your personality.
 * Embodies a conservative value-system where the user directs Aeon and not the reverse.
 * Speaks and understands a variety of human languages.
-* Latest version (2025) is in called "Henry the Bear".
+* Latest version (2025) is called _Henry the Bear_.
